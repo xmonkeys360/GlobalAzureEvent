@@ -88,6 +88,10 @@
     <Content Include="assets\img\blog\img-1.jpg" />
     <Content Include="assets\img\blog\img-2.jpg" />
     <Content Include="assets\img\blog\img-3.jpg" />
+    <Content Include="assets\img\community\bengaluru-aug.jpg" />
+    <Content Include="assets\img\community\chennai-aug.png" />
+    <Content Include="assets\img\community\msdevgeeks.png" />
+    <Content Include="assets\img\community\x360.png" />
     <Content Include="assets\img\gallery\img-1.jpg" />
     <Content Include="assets\img\gallery\img-2.jpg" />
     <Content Include="assets\img\gallery\img-3.jpg" />
@@ -108,6 +112,16 @@
     <Content Include="assets\img\sponsors\logo-02.png" />
     <Content Include="assets\img\sponsors\logo-03.png" />
     <Content Include="assets\img\sponsors\logo-04.png" />
+    <Content Include="assets\img\team\amal.jpeg" />
+    <Content Include="assets\img\team\Anbu.jpg" />
+    <Content Include="assets\img\team\dj.jpeg" />
+    <Content Include="assets\img\team\ilyas.png" />
+    <Content Include="assets\img\team\Karthikeyan.jpg" />
+    <Content Include="assets\img\team\Logesh.jpg" />
+    <Content Include="assets\img\team\nila.jpeg" />
+    <Content Include="assets\img\team\niss.jpeg" />
+    <Content Include="assets\img\team\Nivedha.jpeg" />
+    <Content Include="assets\img\team\swami.jpg" />
     <Content Include="assets\img\team\team-01.jpg" />
     <Content Include="assets\img\team\team-02.jpg" />
     <Content Include="assets\img\team\team-03.jpg" />

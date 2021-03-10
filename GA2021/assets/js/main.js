@@ -28,6 +28,8 @@
       +'<div class="time-entry seconds"><span>%S</span> Seconds</div> '));
     });
 
+
+
     /* slicknav mobile menu active  */
     $('.mobile-menu').slicknav({
         prependTo: '.navbar-header',
