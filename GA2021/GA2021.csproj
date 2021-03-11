@@ -88,10 +88,12 @@
     <Content Include="assets\img\blog\img-1.jpg" />
     <Content Include="assets\img\blog\img-2.jpg" />
     <Content Include="assets\img\blog\img-3.jpg" />
+    <Content Include="assets\img\community\bdotnet-new.png" />
     <Content Include="assets\img\community\bengaluru-aug.jpg" />
     <Content Include="assets\img\community\chennai-aug.png" />
     <Content Include="assets\img\community\msdevgeeks.png" />
     <Content Include="assets\img\community\x360.png" />
+    <Content Include="assets\img\community\xhackers.jpg" />
     <Content Include="assets\img\gallery\img-1.jpg" />
     <Content Include="assets\img\gallery\img-2.jpg" />
     <Content Include="assets\img\gallery\img-3.jpg" />
@@ -99,6 +101,7 @@
     <Content Include="assets\img\gallery\img-5.jpg" />
     <Content Include="assets\img\gallery\img-6.jpg" />
     <Content Include="assets\img\GlobalAzure2021-250.png" />
+    <Content Include="assets\img\hero-bkg.jpg" />
     <Content Include="assets\img\location.png" />
     <Content Include="assets\img\logo.png" />
     <Content Include="assets\img\slider\slide1.jpg" />
@@ -147,6 +150,9 @@
     <Content Include="assets\js\popper.min.js" />
     <Content Include="assets\js\wow.js" />
     <Content Include="assets\php\form-process.php" />
+    <Content Include="assets\videos\Earth - 1175.mp4" />
+    <Content Include="assets\videos\Welcome - 24829.mp4" />
+    <Content Include="assets\videos\World - 1992.mp4" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -203,6 +209,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
