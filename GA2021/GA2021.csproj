@@ -152,7 +152,7 @@
     <Content Include="assets\php\form-process.php" />
     <Content Include="assets\videos\Earth - 1175.mp4" />
     <Content Include="assets\videos\Welcome - 24829.mp4" />
-    <Content Include="assets\videos\World - 1992.mp4" />
+    <Content Include="assets\videos\World-1992.mp4" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
