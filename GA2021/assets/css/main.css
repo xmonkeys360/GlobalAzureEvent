@@ -1193,9 +1193,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .padding-none {
-  padding: 0;
-  border-left: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+    padding: 0;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    
 }
 
 .padding-none:nth-child(1) {
