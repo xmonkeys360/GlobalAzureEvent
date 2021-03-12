@@ -251,14 +251,14 @@ ul li, ol li {
   z-index: 1;
 }
 
-.btn-common:hover {
-  color: #fff;
-  background: #F50057;
-  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
-  transition: all .2s ease-in-out;
-  -moz-transition: all .2s ease-in-out;
-  -webkit-transition: all .2s ease-in-out;
-}
+    .btn-common:hover {
+        color: #fff;
+        background: #0d4e80;
+        box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
+        transition: all .2s ease-in-out;
+        -moz-transition: all .2s ease-in-out;
+        -webkit-transition: all .2s ease-in-out;
+    }
 
 .btn-border {
   color: #fff;
