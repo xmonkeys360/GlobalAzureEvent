@@ -108,10 +108,14 @@
     <Content Include="assets\img\slider\slide1.jpg" />
     <Content Include="assets\img\slider\slide2.jpg" />
     <Content Include="assets\img\slider\slide3.jpg" />
-    <Content Include="assets\img\speaker\speakers-1.jpg" />
-    <Content Include="assets\img\speaker\speakers-2.jpg" />
-    <Content Include="assets\img\speaker\speakers-3.jpg" />
-    <Content Include="assets\img\speaker\speakers-4.jpg" />
+    <Content Include="assets\img\speaker\Keshav_Jain.jpg" />
+    <Content Include="assets\img\speaker\Mangesh_Gaherwar.jpg" />
+    <Content Include="assets\img\speaker\Prince_Kher.jpg" />
+    <Content Include="assets\img\speaker\Sangram_Rath.png" />
+    <Content Include="assets\img\speaker\Sergey_Chubarov.jpg" />
+    <Content Include="assets\img\speaker\Tiago_Costa.jpg" />
+    <Content Include="assets\img\speaker\Viswanatha_Swamy.jpeg" />
+    <Content Include="assets\img\speaker\Wriju_Ghosh_.jpg" />
     <Content Include="assets\img\sponsors\logo-01.png" />
     <Content Include="assets\img\sponsors\logo-02.png" />
     <Content Include="assets\img\sponsors\logo-03.png" />
@@ -179,7 +183,6 @@
     <Content Include="assets\img\gallery\.DS_Store" />
     <Content Include="assets\img\logo.psd" />
     <Content Include="assets\img\slider\.DS_Store" />
-    <Content Include="assets\img\speaker\.DS_Store" />
     <Content Include="assets\img\sponsors\.DS_Store" />
     <Content Include="assets\img\team\.DS_Store" />
     <Content Include="assets\img\testimonial\.DS_Store" />
