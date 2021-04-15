@@ -88,6 +88,7 @@
     <Content Include="assets\img\blog\img-1.jpg" />
     <Content Include="assets\img\blog\img-2.jpg" />
     <Content Include="assets\img\blog\img-3.jpg" />
+    <Content Include="assets\img\Btn_Click.png" />
     <Content Include="assets\img\community\bdotnet-new.png" />
     <Content Include="assets\img\community\bengaluru-aug.jpg" />
     <Content Include="assets\img\community\bitpro.jpg" />
