@@ -185,28 +185,43 @@
     <Content Include="2021\assets\videos\World - 1992.mp4" />
     <Content Include="2021\assets\videos\World-1992.mp4" />
     <Content Include="2021\index.html" />
+    <Content Include="assets\.DS_Store" />
+    <Content Include="assets\css\.DS_Store" />
     <Content Include="assets\css\animate.css" />
     <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\colors\.DS_Store" />
     <Content Include="assets\css\colors\blue.css" />
     <Content Include="assets\css\main.css" />
+    <Content Include="assets\css\main.map" />
     <Content Include="assets\css\nivo-lightbox.css" />
     <Content Include="assets\css\responsive.css" />
+    <Content Include="assets\css\responsive.map" />
     <Content Include="assets\css\slicknav.css" />
+    <Content Include="assets\fonts\.DS_Store" />
     <Content Include="assets\fonts\line-icons.css" />
+    <Content Include="assets\fonts\LineIcons.eot" />
     <Content Include="assets\fonts\LineIcons.svg" />
+    <Content Include="assets\fonts\LineIcons.ttf" />
+    <Content Include="assets\fonts\LineIcons.woff" />
+    <Content Include="assets\img\.DS_Store" />
+    <Content Include="assets\img\about\.DS_Store" />
     <Content Include="assets\img\about\about.jpg" />
     <Content Include="assets\img\about\img1.jpg" />
     <Content Include="assets\img\about\img2.jpg" />
     <Content Include="assets\img\about\img3.jpg" />
+    <Content Include="assets\img\art\.DS_Store" />
     <Content Include="assets\img\art\a1.jpg" />
     <Content Include="assets\img\art\a2.jpg" />
+    <Content Include="assets\img\background\.DS_Store" />
     <Content Include="assets\img\background\bg-1.jpg" />
     <Content Include="assets\img\background\bg-pricing.jpg" />
     <Content Include="assets\img\background\countdown.png" />
+    <Content Include="assets\img\blog\.DS_Store" />
     <Content Include="assets\img\blog\img-1.jpg" />
     <Content Include="assets\img\blog\img-2.jpg" />
     <Content Include="assets\img\blog\img-3.jpg" />
     <Content Include="assets\img\Btn_Click.png" />
+    <Content Include="assets\img\community\azconf.png" />
     <Content Include="assets\img\community\bdotnet-new.png" />
     <Content Include="assets\img\community\bengaluru-aug.jpg" />
     <Content Include="assets\img\community\bitpro.jpg" />
@@ -215,6 +230,7 @@
     <Content Include="assets\img\community\msdevgeeks.png" />
     <Content Include="assets\img\community\x360.png" />
     <Content Include="assets\img\community\xhackers.jpg" />
+    <Content Include="assets\img\gallery\.DS_Store" />
     <Content Include="assets\img\gallery\img-1.jpg" />
     <Content Include="assets\img\gallery\img-2.jpg" />
     <Content Include="assets\img\gallery\img-3.jpg" />
@@ -225,6 +241,8 @@
     <Content Include="assets\img\hero-bkg.jpg" />
     <Content Include="assets\img\location.png" />
     <Content Include="assets\img\logo.png" />
+    <Content Include="assets\img\logo.psd" />
+    <Content Include="assets\img\slider\.DS_Store" />
     <Content Include="assets\img\slider\slide1.jpg" />
     <Content Include="assets\img\slider\slide2.jpg" />
     <Content Include="assets\img\slider\slide3.jpg" />
@@ -258,10 +276,13 @@
     <Content Include="assets\img\speaker\Vignesh_Ganesan.jpg" />
     <Content Include="assets\img\speaker\Viswanatha_Swamy.jpeg" />
     <Content Include="assets\img\speaker\Wriju_Ghosh_.jpg" />
+    <Content Include="assets\img\sponsors\.DS_Store" />
+    <Content Include="assets\img\sponsors\Kissflow.png" />
     <Content Include="assets\img\sponsors\logo-01.png" />
     <Content Include="assets\img\sponsors\logo-02.png" />
     <Content Include="assets\img\sponsors\logo-03.png" />
     <Content Include="assets\img\sponsors\logo-04.png" />
+    <Content Include="assets\img\team\.DS_Store" />
     <Content Include="assets\img\team\amal.jpeg" />
     <Content Include="assets\img\team\Anbu.jpg" />
     <Content Include="assets\img\team\ilyas.png" />
@@ -271,6 +292,7 @@
     <Content Include="assets\img\team\nila.jpeg" />
     <Content Include="assets\img\team\niss.jpeg" />
     <Content Include="assets\img\team\Nivedha.jpeg" />
+    <Content Include="assets\img\team\SathishN.jpeg" />
     <Content Include="assets\img\team\swami.jpg" />
     <Content Include="assets\img\team\team-01.jpg" />
     <Content Include="assets\img\team\team-02.jpg" />
@@ -278,12 +300,14 @@
     <Content Include="assets\img\team\team-04.jpg" />
     <Content Include="assets\img\team\team-05.jpg" />
     <Content Include="assets\img\team\team-06.jpg" />
+    <Content Include="assets\img\testimonial\.DS_Store" />
     <Content Include="assets\img\testimonial\img1.png" />
     <Content Include="assets\img\testimonial\img2.png" />
     <Content Include="assets\img\testimonial\img3.png" />
     <Content Include="assets\img\testimonial\img4.png" />
     <Content Include="assets\img\testimonial\img5.png" />
     <Content Include="assets\img\testimonial\img6.png" />
+    <Content Include="assets\js\.DS_Store" />
     <Content Include="assets\js\bootstrap.min.js" />
     <Content Include="assets\js\contact-form-script.min.js" />
     <Content Include="assets\js\form-validator.min.js" />
@@ -298,37 +322,6 @@
     <Content Include="assets\js\popper.min.js" />
     <Content Include="assets\js\wow.js" />
     <Content Include="assets\php\form-process.php" />
-    <Content Include="assets\videos\Earth - 1175.mp4" />
-    <Content Include="assets\videos\Welcome - 24829.mp4" />
-    <Content Include="assets\videos\World-1992.mp4" />
-    <Content Include="index.html" />
-    <Content Include="Web.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="assets\.DS_Store" />
-    <Content Include="assets\css\.DS_Store" />
-    <Content Include="assets\css\colors\.DS_Store" />
-    <Content Include="assets\css\main.map" />
-    <Content Include="assets\css\responsive.map" />
-    <Content Include="assets\fonts\.DS_Store" />
-    <Content Include="assets\fonts\LineIcons.eot" />
-    <Content Include="assets\fonts\LineIcons.ttf" />
-    <Content Include="assets\fonts\LineIcons.woff" />
-    <Content Include="assets\img\.DS_Store" />
-    <Content Include="assets\img\about\.DS_Store" />
-    <Content Include="assets\img\art\.DS_Store" />
-    <Content Include="assets\img\background\.DS_Store" />
-    <Content Include="assets\img\blog\.DS_Store" />
-    <Content Include="assets\img\gallery\.DS_Store" />
-    <Content Include="assets\img\logo.psd" />
-    <Content Include="assets\img\slider\.DS_Store" />
-    <Content Include="assets\img\sponsors\.DS_Store" />
-    <Content Include="assets\img\team\.DS_Store" />
-    <Content Include="assets\img\testimonial\.DS_Store" />
-    <Content Include="assets\js\.DS_Store" />
     <Content Include="assets\scss\.DS_Store" />
     <Content Include="assets\scss\colors\_presets.scss" />
     <Content Include="assets\scss\main.scss" />
@@ -348,6 +341,16 @@
     <Content Include="assets\scss\_shortcode.scss" />
     <Content Include="assets\scss\_team.scss" />
     <Content Include="assets\scss\_testimonial.scss" />
+    <Content Include="assets\videos\Earth - 1175.mp4" />
+    <Content Include="assets\videos\Welcome - 24829.mp4" />
+    <Content Include="assets\videos\World-1992.mp4" />
+    <Content Include="index.html" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="2021\assets\.DS_Store" />
     <Content Include="2021\assets\css\.DS_Store" />
     <Content Include="2021\assets\css\colors\.DS_Store" />

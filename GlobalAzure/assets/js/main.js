@@ -20,14 +20,14 @@
     /* ==========================================================================
        countdown timer
        ========================================================================== */
-     jQuery('#clock').countdown('2021/04/16',function(event){
+     jQuery('#clock').countdown('2022/05/07',function(event){
       var $this=jQuery(this).html(event.strftime(''
       +'<div class="time-entry days"><span>%-D</span> Days</div> '
       +'<div class="time-entry hours"><span>%H</span> Hours</div> '
       +'<div class="time-entry minutes"><span>%M</span> Minutes</div> '
       +'<div class="time-entry seconds"><span>%S</span> Seconds</div> '));
-    });
-
+    }); 
+  
   /* ==========================================================================
      Youtube Popup
      ========================================================================== */
