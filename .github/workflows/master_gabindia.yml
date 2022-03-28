@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'gabindia'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB8E809027BC45299EDD015062DF042D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BCFCF9035C784B0F976FFB14F55DD3BD }}
           package: .
