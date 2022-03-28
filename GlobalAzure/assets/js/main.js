@@ -42,6 +42,19 @@
 
       //});
 
+      // Show or hide the sticky footer button
+      $(window).on('scroll', function (event) { 
+          var scrollTopPos = 600; 
+              scrollTopPos = 10;
+          if ($(this).scrollTop() > scrollTopPos) {
+            
+              $('.register-btn-float').fadeIn(200)
+          } else { 
+              $('.register-btn-float').fadeOut(200);
+          }
+      });
+
+
 
     /* slicknav mobile menu active  */
     $('.mobile-menu').slicknav({

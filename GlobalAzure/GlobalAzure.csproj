@@ -242,6 +242,7 @@
     <Content Include="assets\img\location.png" />
     <Content Include="assets\img\logo.png" />
     <Content Include="assets\img\logo.psd" />
+    <Content Include="assets\img\metatag.png" />
     <Content Include="assets\img\slider\.DS_Store" />
     <Content Include="assets\img\slider\slide1.jpg" />
     <Content Include="assets\img\slider\slide2.jpg" />
@@ -275,8 +276,9 @@
     <Content Include="assets\img\speaker\Timothy_Spann.jpg" />
     <Content Include="assets\img\speaker\Vignesh_Ganesan.jpg" />
     <Content Include="assets\img\speaker\Viswanatha_Swamy.jpeg" />
-    <Content Include="assets\img\speaker\Wriju_Ghosh_.jpg" /> 
-    <Content Include="assets\img\sponsors\Kissflow.png" /> 
+    <Content Include="assets\img\speaker\Wriju_Ghosh_.jpg" />
+    <Content Include="assets\img\sponsors\Kissflow.png" />
+    <Content Include="assets\img\sponsors\microsoft.png" />
     <Content Include="assets\img\team\.DS_Store" />
     <Content Include="assets\img\team\amal.jpeg" />
     <Content Include="assets\img\team\Anbu.jpg" />
