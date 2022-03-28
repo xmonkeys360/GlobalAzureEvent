@@ -12,7 +12,45 @@ html {
     position: relative;
     overflow: hidden;
 }
- 
+.register-btn-float {
+    background-image: linear-gradient(65deg, #00467b 0, #0078D4 100%);
+    position: fixed;
+    writing-mode: vertical-rl;
+    /* word-wrap: break-word !important; */
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    padding: 10px 10px;
+    cursor: pointer;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    right: 0px;
+    top: 200px;
+    width: 50px;
+    height: 200px;
+    z-index: 99999;
+    /* transform: rotate(90deg); */
+    /* transform-origin: left top 0; */
+    display: inline-block;
+    text-orientation: upright;
+    display: none;
+}
+
+/* mobile or only mobile */
+@media (max-width: 767px) { 
+
+    .register-btn-float {
+        display: none !important;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) { 
+    .register-btn-float {
+        display: none !important;
+    }
+}
 
 .photobanner {
     position: absolute;
@@ -999,8 +1037,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   text-align: center;
   border-radius: 4px;
   padding: 50px;
-  margin-bottom: 30px;
-  width:50%;
+  margin-bottom: 30px; 
   display: inline-block;
   border: 1px solid #ddd;
   background: #fff;
