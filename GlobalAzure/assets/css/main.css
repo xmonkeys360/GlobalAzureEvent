@@ -12,6 +12,13 @@ html {
     position: relative;
     overflow: hidden;
 }
+.whytag {
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    color: #212121;
+}
+
 .register-btn-float {
     background-image: linear-gradient(65deg, #00467b 0, #0078D4 100%);
     position: fixed;
