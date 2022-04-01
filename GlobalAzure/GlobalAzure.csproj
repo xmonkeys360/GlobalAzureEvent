@@ -276,16 +276,17 @@
     <Content Include="assets\img\speaker\Timothy_Spann.jpg" />
     <Content Include="assets\img\speaker\Vignesh_Ganesan.jpg" />
     <Content Include="assets\img\speaker\Viswanatha_Swamy.jpeg" />
- 
     <Content Include="assets\img\sponsors\Kissflow.png" />
-    <Content Include="assets\img\sponsors\microsoft.png" /> 
+    <Content Include="assets\img\sponsors\microsoft.png" />
     <Content Include="assets\img\team\amal.jpeg" />
-    <Content Include="assets\img\team\Anbu.jpg" /> 
-    <Content Include="assets\img\team\Karthikeyan.jpg" /> 
-    <Content Include="assets\img\team\Logesh.jpg" /> 
+    <Content Include="assets\img\team\Anbu.jpg" />
+    <Content Include="assets\img\team\Haridhass.jpg" />
+    <Content Include="assets\img\team\Karthikeyan.jpg" />
+    <Content Include="assets\img\team\Lakshman.jpg" />
+    <Content Include="assets\img\team\Logesh.jpg" />
     <Content Include="assets\img\team\Nivedha.jpeg" />
     <Content Include="assets\img\team\SathishN.jpeg" />
- 
+    <Content Include="assets\img\team\VijayperumalShanmuganathan.png" />
     <Content Include="assets\img\testimonial\.DS_Store" />
     <Content Include="assets\img\testimonial\img1.png" />
     <Content Include="assets\img\testimonial\img2.png" />
