@@ -19,6 +19,13 @@ html {
     color: #212121;
 }
 
+/*  custom css*/
+#COC span p {
+    font-weight: 600;
+    font-size: 1.1em;
+    padding-bottom: 15px;
+}
+
 .register-btn-float {
     background-image: linear-gradient(65deg, #00467b 0, #0078D4 100%);
     position: fixed;
