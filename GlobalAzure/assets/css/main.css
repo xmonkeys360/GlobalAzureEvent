@@ -1049,7 +1049,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 /* Sponsors Area */
 #sponsors {
-  background: #f3f4f3;
+    background: #c7c7c7;
 }
 
 #sponsors .spnsors-logo {
@@ -1071,7 +1071,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 /* Schedule Area */
 #schedules {
-  background: #f3f4f3;
+    background: #c7c7c7;
 }
 
 #schedule-tab {
