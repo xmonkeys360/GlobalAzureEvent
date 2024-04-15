@@ -471,13 +471,11 @@
     <Content Include="assets\img\speaker\Karthikeyan_V_K.jpg" />
     <Content Include="assets\img\speaker\Mothilal_Marimuthu.jpg" />
     <Content Include="assets\img\speaker\Naveen_Chandar_B.jpg" />
+    <Content Include="assets\img\speaker\prasana-kumar-parthasarathy.png" />
     <Content Include="assets\img\speaker\Sujithkumar_P_Sukumaran.jpg" />
     <Content Include="assets\img\speaker\Vinodh_Kumar.jpg" />
-    <Content Include="assets\img\sponsors\2d-cover.png" />
-    <Content Include="assets\img\sponsors\epam.jpg" />
-    <Content Include="assets\img\sponsors\Kissflow.jpg" />
-    <Content Include="assets\img\sponsors\Kissflow.png" />
-    <Content Include="assets\img\sponsors\microsoft.png" />
+    <Content Include="assets\img\sponsors\ideas2it.png" />
+    <Content Include="assets\img\sponsors\neostats.png" />
     <Content Include="assets\img\team\amal.jpeg" />
     <Content Include="assets\img\team\Anbu.jpg" />
     <Content Include="assets\img\team\Haridhass.jpg" />
