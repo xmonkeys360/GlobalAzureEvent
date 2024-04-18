@@ -508,6 +508,7 @@
     <Content Include="assets\js\map.js" />
     <Content Include="assets\js\nivo-lightbox.js" />
     <Content Include="assets\js\popper.min.js" />
+    <Content Include="assets\js\SpeakerWall.js" />
     <Content Include="assets\js\wow.js" />
     <Content Include="assets\php\form-process.php" />
     <Content Include="assets\scss\.DS_Store" />
