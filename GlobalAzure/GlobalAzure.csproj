@@ -454,6 +454,7 @@
     <Content Include="assets\img\gallery\img-4.jpg" />
     <Content Include="assets\img\gallery\img-5.jpg" />
     <Content Include="assets\img\gallery\img-6.jpg" />
+    <Content Include="assets\img\GlobalAzure2024-250.png" />
     <Content Include="assets\img\hero-bkg.jpg" />
     <Content Include="assets\img\location.png" />
     <Content Include="assets\img\logo.psd" />
@@ -508,6 +509,7 @@
     <Content Include="assets\js\map.js" />
     <Content Include="assets\js\nivo-lightbox.js" />
     <Content Include="assets\js\popper.min.js" />
+    <Content Include="assets\js\SpeakerWall.js" />
     <Content Include="assets\js\wow.js" />
     <Content Include="assets\php\form-process.php" />
     <Content Include="assets\scss\.DS_Store" />
