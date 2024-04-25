@@ -468,6 +468,7 @@
     <Content Include="assets\img\speaker\Ashish_Tiwari.jpg" />
     <Content Include="assets\img\speaker\Ashwini_Mahendiran.jpg" />
     <Content Include="assets\img\speaker\C_R_Bhargavi.jpg" />
+    <Content Include="assets\img\speaker\Dinesh_Kumar_Prabakaran.png" />
     <Content Include="assets\img\speaker\felci-fernando.jpg" />
     <Content Include="assets\img\speaker\Hemapriya_N.jpg" />
     <Content Include="assets\img\speaker\Karthikeyan_V_K.jpg" />
@@ -480,13 +481,13 @@
     <Content Include="assets\img\sponsors\ideas2it.png" />
     <Content Include="assets\img\sponsors\neostats.png" />
     <Content Include="assets\img\team\amal.jpeg" />
-    <Content Include="assets\img\team\Anbu.jpg" />
+    <Content Include="assets\img\team\Anbu.png" />
+    <Content Include="assets\img\team\Dinesh_Kumar_Prabakaran.png" />
     <Content Include="assets\img\team\Haridhass.jpg" />
     <Content Include="assets\img\team\Karthikeyan.jpg" />
     <Content Include="assets\img\team\Lakshman.jpg" />
     <Content Include="assets\img\team\Logesh.jpg" />
     <Content Include="assets\img\team\Nivedha.jpeg" />
-    <Content Include="assets\img\team\rajesh.jpg" />
     <Content Include="assets\img\team\SathishN.jpeg" />
     <Content Include="assets\img\team\VijayperumalShanmuganathan.png" />
     <Content Include="assets\img\testimonial\.DS_Store" />
