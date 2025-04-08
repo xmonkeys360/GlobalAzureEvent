@@ -1879,6 +1879,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   background: #0073b1;
 }
 
+    .footer-area .footer-social li .instagram:hover {
+        background: #E1306C;
+    }
+
 .footer-area .footer-social li .foursqare:hover {
   background: #25a0ca;
 }
