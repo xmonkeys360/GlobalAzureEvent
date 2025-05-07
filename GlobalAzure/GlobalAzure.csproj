@@ -559,6 +559,12 @@
     <Content Include="assets\img\slider\slide1.jpg" />
     <Content Include="assets\img\slider\slide2.jpg" />
     <Content Include="assets\img\slider\slide3.jpg" />
+    <Content Include="assets\img\speaker\bharath-nallapeta.jpg" />
+    <Content Include="assets\img\speaker\DivakarKumar.png" />
+    <Content Include="assets\img\speaker\karthikeyan-vk.png" />
+    <Content Include="assets\img\speaker\nelson-kulandairaj.jpg" />
+    <Content Include="assets\img\speaker\vinodh-kumar.jpg" />
+    <Content Include="assets\img\speaker\vinoth-rajendran.jpg" />
     <Content Include="assets\img\team\amal.jpeg" />
     <Content Include="assets\img\team\Anbu.png" />
     <Content Include="assets\img\team\Dinesh_Kumar_Prabakaran.png" />
@@ -785,7 +791,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="assets\img\speaker\" />
     <Folder Include="assets\img\sponsors\" />
   </ItemGroup>
   <PropertyGroup>
